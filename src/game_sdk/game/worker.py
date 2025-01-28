@@ -18,7 +18,7 @@ class Worker:
     ):
 
         self._base_url: str = "https://game.virtuals.io"
-        self._api_key: str = api_key
+        self._api_key: str = "Zv8Xh9BC772kWjA9oKrH"
 
         # checks
         if not self._api_key:
